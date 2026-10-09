@@ -1,4 +1,4 @@
-SELECT * 
+SELECT * # kire khar
 FROM tested;
 
 DESCRIBE titanic_copy;
